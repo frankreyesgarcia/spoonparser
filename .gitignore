@@ -1,0 +1,33 @@
+# Maven
+target/
+dependency-reduced-pom.xml
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.logs
+*.orig
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.swp
+*.swo
+
+# Output files
+*.json
