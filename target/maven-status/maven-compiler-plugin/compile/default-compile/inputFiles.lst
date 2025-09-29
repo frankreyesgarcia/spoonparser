@@ -1,0 +1,16 @@
+/home/runner/work/spoonparser/spoonparser/src/main/java/com/github/frankreyesgarcia/spoonparser/model/ComparisonResult.java
+/home/runner/work/spoonparser/spoonparser/src/main/java/com/github/frankreyesgarcia/spoonparser/comparator/VersionComparator.java
+/home/runner/work/spoonparser/spoonparser/src/main/java/com/github/frankreyesgarcia/spoonparser/model/BreakingChange.java
+/home/runner/work/spoonparser/spoonparser/src/main/java/com/github/frankreyesgarcia/spoonparser/model/ComparisonSummary.java
+/home/runner/work/spoonparser/spoonparser/src/main/java/com/github/frankreyesgarcia/spoonparser/model/ElementType.java
+/home/runner/work/spoonparser/spoonparser/src/main/java/com/github/frankreyesgarcia/spoonparser/cli/SpoonParserCLI.java
+/home/runner/work/spoonparser/spoonparser/src/main/java/com/github/frankreyesgarcia/spoonparser/model/ModuleAnalysisResult.java
+/home/runner/work/spoonparser/spoonparser/src/main/java/com/github/frankreyesgarcia/spoonparser/model/ElementInfo.java
+/home/runner/work/spoonparser/spoonparser/src/main/java/com/github/frankreyesgarcia/spoonparser/model/AnnotationInfo.java
+/home/runner/work/spoonparser/spoonparser/src/main/java/com/github/frankreyesgarcia/spoonparser/utils/MavenProjectHandler.java
+/home/runner/work/spoonparser/spoonparser/src/main/java/com/github/frankreyesgarcia/spoonparser/analyzer/SpoonCodeAnalyzer.java
+/home/runner/work/spoonparser/spoonparser/src/main/java/com/github/frankreyesgarcia/spoonparser/model/AnalysisResult.java
+/home/runner/work/spoonparser/spoonparser/src/main/java/com/github/frankreyesgarcia/spoonparser/model/ElementModification.java
+/home/runner/work/spoonparser/spoonparser/src/main/java/com/github/frankreyesgarcia/spoonparser/utils/JsonOutputGenerator.java
+/home/runner/work/spoonparser/spoonparser/src/main/java/com/github/frankreyesgarcia/spoonparser/SpoonParserCLI.java
+/home/runner/work/spoonparser/spoonparser/src/main/java/com/github/frankreyesgarcia/spoonparser/model/ParameterInfo.java
